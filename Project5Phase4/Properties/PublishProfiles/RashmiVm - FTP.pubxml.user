@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHS3Nqmy8/Em006IWzKazgAAAAAACAAAAAAAQZgAAAAEAACAAAABIdCpzn46Ae/KqckZS8kiiTNaF5skeuuGzH0vRSDA6gwAAAAAOgAAAAAIAACAAAADNjviS8YfZK1d2zkZtmk4WXEM98e01LhbCsiZn/Kj8KqAAAAAiLBK/YDn5gbS7nYWHq7EIEbeSqfeiVxIjxsdYBV+muNLFhD0vUWPkggGXTj7gcUuZ6CvmOax0KDgOExEpu63EXV45zL4Vr82quXF9fY2Q6O+T1+5RN2YXcm4f8QmU/O4yeMqyq+wQeDj3w9Fc5dViXkFYTiqET74t4c0RlhXxP8y14iifqkHts6jK32EfxFc72tWT9OkTQLSX3lZPZ5O1QAAAAMy7/1gYBNllJ4jBnjWcf2FcSArEEUbxSF2KpIpp3YjKo9xz8T//Oss4WC0Glm7u5JUIU7Rt03t2yZub3V+mUPg=</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-535.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Home.aspx">
+      <publishTime>02/25/2024 09:10:49</publishTime>
+    </File>
+    <File Include="OurSite.Master">
+      <publishTime>02/25/2024 09:21:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
